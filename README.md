@@ -77,7 +77,7 @@ I build practical projects and continuously improve my skills.
 
 ## <span style="color:#00BFFF">Contact</span>
 
-- Email: <a href="mailto:ramim.ai.dev@gmail.com">ramim.ai.dev@gmail.com</a>  
+- Email: <a href="mailto:rhramim41@gmail.com">rhramim41@gmail.com</a>  
 - LinkedIn: <a href="https://www.linkedin.com/in/ramim41">https://www.linkedin.com/in/ramim41</a>  
 - Kaggle: <a href="https://www.kaggle.com">https://www.kaggle.com</a>  
 
