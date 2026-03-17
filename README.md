@@ -1,41 +1,60 @@
-<h1 align="center">👋 Hi, I'm Ramim</h1>
-<h3 align="center">🚀 Future AI Developer | Python & ML Enthusiast</h3>
+<h1 align="center" style="color:#00BFFF">Ramim</h1>
+<h3 align="center" style="color:#CCCCCC">AI Developer in Progress | Python | Machine Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;Machine+Learning+Learner;Future+AI+Engineer;Building+Real+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&lines=Python+Developer;Machine+Learning+Engineer;Deep+Learning+Learner;Building+Real+World+Projects" />
 </p>
 
 ---
 
-## 🧠 About Me
-💡 Passionate about **Artificial Intelligence & Machine Learning**  
-🎯 Goal: Become a **Professional AI Engineer**  
-📚 Currently learning: **Machine Learning & Deep Learning**  
-🔨 Building real-world ML projects step by step  
-🌍 From: Bangladesh  
+## <span style="color:#00BFFF">Profile Summary</span>
+
+I am a dedicated learner focused on Artificial Intelligence and software development.  
+I have completed Machine Learning and currently learning Deep Learning and AI.  
+I build practical projects and continuously improve my skills.
 
 ---
 
-## ⚡ Tech Stack
+## <span style="color:#00BFFF">Technical Skills</span>
 
-### 👨‍💻 Languages
+### Programming
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### 🤖 Machine Learning
+### Libraries & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
 </p>
 
-### ⚙️ Tools
+---
+
+## <span style="color:#00BFFF">Tools & Environment</span>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## <span style="color:#00BFFF">Current Focus</span>
+
+- Deep Learning  
+- Artificial Intelligence  
+- Model Deployment using Flask  
+- Building real-world applications  
+
+---
+
+## <span style="color:#00BFFF">GitHub Analytics</span>
+
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ramim41&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ramim41&theme=tokyonight&hide_border=true" />
@@ -47,38 +66,23 @@
 
 ---
 
-## 🚀 Featured Projects
-🔹 🧠 Machine Learning Model (Regression)  
-🔹 📊 Data Analysis Project  
-🔹 🤖 AI Mini Projects  
+## <span style="color:#00BFFF">Projects</span>
+
+- Machine Learning Model (Regression)  
+- Data Analysis with Pandas & NumPy  
+- Visualization using Matplotlib & Seaborn  
+- Model Deployment using Flask  
 
 ---
 
-## 🏆 Achievements (Future Goals)
-- 🔥 Build 10+ ML Projects  
-- 🚀 Deploy ML Model to Web App  
-- 💼 Get AI Developer Job  
+## <span style="color:#00BFFF">Contact</span>
+
+- Email: <a href="mailto:ramim.ai.dev@gmail.com">ramim.ai.dev@gmail.com</a>  
+- LinkedIn: <a href="https://www.linkedin.com/in/ramim41">https://www.linkedin.com/in/ramim41</a>  
+- Kaggle: <a href="https://www.kaggle.com">https://www.kaggle.com</a>  
 
 ---
 
-## 🌐 Connect With Me
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
+## <span style="color:#00BFFF">Profile</span>
 
----
-
-## 👁️ Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramim41&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
-
----
-
-## 💬 Quote
-> "Consistency is more powerful than talent." 🚀
-
----
-
-⭐️ From [ramim41](https://github.com/ramim41)
+[https://github.com/ramim41](https://github.com/ramim41)
